@@ -1,0 +1,20 @@
+configuration {
+	modi: "Emoji Search🔎:~/.config/rofi-emoji-search/emoji_search.sh";
+	lines: 10;
+	bw: 2;
+	padding: 0;
+	fixed-num-lines: false;
+	terminal: "alacritty";
+	sorting-method: "fzf";
+	matching: "fuzzy";
+	hide-scrollbar: true;
+	theme: "~/.config/rofi-emoji-search/theme.rasi";
+	kb-accept-entry: "Return,KP_Enter";
+	kb-row-down: "Down,Control+j";
+	kb-row-up: "Up,Control+k";
+	kb-remove-to-eol: "";
+	kb-page-next: "Control+d";
+	kb-page-prev: "Control+u";
+	kb-remove-char-forward: "Delete";
+	kb-remove-to-sol: "";
+}
