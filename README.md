@@ -10,7 +10,7 @@ Paths in the script and Rofi config are written assuming these files are in
 ## Example Usage
 
 ```
-rofi -show 'Emoji Search🔎' -config emoji/config.rasi
+rofi -show 'Emoji Search🔎' -config ~/.config/rofi-emoji-search/config.rasi
 ```
 
 ## Shortcuts
