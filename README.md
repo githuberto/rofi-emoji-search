@@ -5,7 +5,7 @@
 A Rofi script which lets you search for emojis and copy them to your clipboard.
 
 Paths in the script and Rofi config are written assuming these files are in
-`~/emoji/`.
+`~/.config/rofi-emoji-search/`.
 
 ## Example Usage
 
